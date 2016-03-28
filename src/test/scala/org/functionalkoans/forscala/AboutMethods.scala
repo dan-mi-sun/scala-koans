@@ -171,7 +171,7 @@ class AboutMethods extends KoanSuite {
     }
 
     val foo = new Foo(9)
-    10 ~: foo should be (__)
-    foo.~:(40) should be (__)
+    10 ~: foo should be (22)
+    foo.~:(40) should be (52)
   }
 }

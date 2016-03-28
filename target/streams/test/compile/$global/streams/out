@@ -16,7 +16,7 @@
 [0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/dan_mi_sun/projects/dmarsh-scalakoansexercises-ebbe18119d70/target/scala-2.10/test-classes...[0m
 [0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
 [0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 23a5f419, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 2f55182a, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-deprecation[0m
 [0m[[0mdebug[0m] [0m	-unchecked[0m
@@ -25,7 +25,7 @@
 [0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/classes:/Users/dan_mi_sun/projects/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
 [0m[[0mdebug[0m] [0m	/Users/dan_mi_sun/projects/dmarsh-scalakoansexercises-ebbe18119d70/target/scala-2.10/test-classes:/Users/dan_mi_sun/projects/dmarsh-scalakoansexercises-ebbe18119d70/target/scala-2.10/classes:/Users/dan_mi_sun/projects/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scalatest/scalatest_2.10/jars/scalatest_2.10-1.9.1.jar:/Users/dan_mi_sun/projects/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-lang/scala-actors/jars/scala-actors-2.10.0.jar:/Users/dan_mi_sun/projects/dmarsh-scalakoansexercises-ebbe18119d70/ivyrepo/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.0.jar[0m
-[0m[[0mdebug[0m] [0mScala compilation took 1.226933012 s[0m
+[0m[[0mdebug[0m] [0mScala compilation took 1.429238153 s[0m
 [0m[[0mdebug[0m] [0mNew invalidations:[0m
 [0m[[0mdebug[0m] [0m	Set()[0m
 [0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
